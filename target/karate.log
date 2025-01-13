@@ -1,0 +1,7 @@
+22:01:38.252 [main] INFO  com.intuit.karate.Runner - using system property 'karate.options': classpath:examples/demo/test.feature
+22:01:38.630 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+22:01:39.276 [pool-1-thread-1] INFO  com.intuit.karate - karate.env system property was: null 
+22:01:39.308 [pool-1-thread-1] INFO  com.intuit.karate - [print] helloworld! ハローワールド！ 
+22:01:39.313 [pool-1-thread-1] INFO  com.intuit.karate - [print] Scenario finished 
+22:01:39.314 [pool-1-thread-1] INFO  com.intuit.karate - warn This is a warning message 
+22:01:39.753 [pool-2-thread-1] INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) classpath:examples/demo/test.feature
